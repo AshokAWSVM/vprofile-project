@@ -119,8 +119,8 @@
 	    <p style="text-align:justify;">VisualPath is an IT Educational Institute.Established in 2001,and Institute offers world class quality of education and wide range of courses.VisualPath Institute has a dedicated placement team to help students get job placement in various IT job roles with major companies.
 	    </p>
 	    <p><strong>Address:</strong>  Flat no: 205, 2nd Floor,NILGIRI Block,Aditya Encalve,Ameerpet, Hyderabad-16</p> 
-	    <p><strong>Ph No: </strong>  +91-9704455959,9618245689</p>
-		<p><strong>E-Mail ID :</strong>  visualpath999@gmail.com</p>
+	    <p><strong>Ph No: </strong>  +91-9688930554,7904537632</p>
+		<p><strong>E-Mail ID :</strong>  ashokkumaar2005@gmail.com</p>
   	</div>
    </div>
   
